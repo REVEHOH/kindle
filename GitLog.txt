@@ -1,0 +1,10 @@
+我在上传的时候Git的警告：
+警告:在Makefile.build中，LF将被CRLF替换。
+该文件将在您的工作目录中以其原始行结尾
+警告:LF将在log.txt中被CRLF替换。
+该文件将在您的工作目录中以其原始行结尾
+
+warning: LF will be replaced by CRLF in Makefile.build.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in log.txt.
+The file will have its original line endings in your working directory
